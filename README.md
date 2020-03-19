@@ -1,7 +1,7 @@
 # SCAR-H-YT
 Hacking surviv.io and other games
 [alt text](http://i67.tinypic.com/357hs47.png "Survivio Banner")
-# Welcome to Surviv.io-Cheats(Actual working on client: 0.5.1)(former account: Najlepszy56)!
+# Welcome to Surviv.io-Cheats(Actual working on client: 0.5.1)
 This is a Surviv.io cheat loaded as a Chrome extension. It was originally developed by me and I've decided to continue the development of the code.
 
 
