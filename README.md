@@ -33,4 +33,4 @@ Big thanks to [reuke] he started everything and created an amazing foundation fo
 
 Anyway, this will be end of development and will be the final copy. This is what [davids coding] said but im going to continiue to develop this code.
 
-Note: Subscribe to [my YouTube Channel]() where you can find special offers and promotions!
+Note: Subscribe to [my YouTube Channel](https://www.youtube.com/channel/UCHQpczAioGy-b1EnE6vPDaQ?view_as=subscriber) where you can find special offers and promotions!
