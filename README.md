@@ -1,6 +1,6 @@
 ﻿![alt text](https://i.imgur.com/7XeDzYg.png "Survivio Banner")
 
-# Welcome to Surviv+! 😃
+# Welcome to Surviv+! 😃 (im probabaly deleting this project i dony hack anymore if you want check my YT SCAR-H YT)
 
 This is a Surviv.io mod loaded as a Chrome extension. It was originally developed by [davids coding] [reuke] and [kalabrative] but since they all have been away, I have decided to take ownership of the development of the code. 
 
